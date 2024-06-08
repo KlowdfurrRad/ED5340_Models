@@ -1,0 +1,10 @@
+Restaurant Bill
+Customer Name:    Akshay
+Table Number:          7
+ItemName UnitPrice Quantity Amount
+   Item1       100        1    100
+   Item2        70        3    210
+   Item3       250        1    250
+GST(5%)             28.0
+Serv.Charge(5%)     28.0
+Total              588.0
